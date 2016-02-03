@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorWeight">#8E90FF</color>
+    <color name="colorCalorie">#EE5063</color>
+
+    <color name="colorXAxis">#651A2126</color>
+</resources>
