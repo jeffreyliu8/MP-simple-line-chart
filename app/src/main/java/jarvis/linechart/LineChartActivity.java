@@ -27,7 +27,7 @@ import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class LineChartActivity1 extends AppCompatActivity implements
+public class LineChartActivity extends AppCompatActivity implements
         OnChartGestureListener, OnChartValueSelectedListener {
 
     private LineChart mChart;
