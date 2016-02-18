@@ -10,7 +10,7 @@ import com.github.mikephil.charting.highlight.Highlight;
 import com.github.mikephil.charting.utils.Utils;
 
 /**
- * Created by jeffliu on 2/2/16.
+ * Created by Jeffrey Liu on 2/2/16.
  */
 public class MyMarkerView  extends MarkerView {
     private TextView tvContent;

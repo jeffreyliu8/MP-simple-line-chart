@@ -1,7 +1,7 @@
 package jarvis.linechart;
 
 /**
- * Created by jeffliu on 2/2/16.
+ * Created by Jeffrey Liu on 2/2/16.
  */
 public class ChartData {
 
